@@ -1,6 +1,8 @@
 3D Bin Packing
 ====
 
+This repository is a fork of this repository https://github.com/enzoruiz/3dbinpacking. I made a few adjustments to make this algorithm work better for our use case.
+
 3D Bin Packing implementation based on [this paper](erick_dube_507-034.pdf). The code is based on [gedex](https://github.com/gedex/bp3d) implementation in Go.
 
 ## Features
