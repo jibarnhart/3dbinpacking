@@ -1,6 +1,6 @@
 class RotationType:
     RT_WHD = 0
-    RT_DHW = 3
+    RT_DHW = 1
 
     ALL = [RT_WHD, RT_DHW]
 
