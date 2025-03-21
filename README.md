@@ -14,12 +14,6 @@ This repository is a fork of this repository https://github.com/enzoruiz/3dbinpa
 3. Number of decimals:
     ```[number_of_decimals=X]``` Define the limits of decimals of the inputs and the outputs. By default is 3.
 
-## Install
-
-```
-pip install py3dbp
-```
-
 ## Basic Explanation
 
 Bin and Items have the same creation params:
